@@ -1,0 +1,14 @@
+{
+  "faculties":
+  [
+    {
+      "name":"FKN",
+     "code":"cs"
+    },
+    {
+      "name":"PMM",
+     "code":"amm"}
+    
+     
+]
+}
